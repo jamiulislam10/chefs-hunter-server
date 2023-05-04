@@ -13,6 +13,7 @@
 "recName":"Anhui ",
 "rating":"2.5 star",
 "sell":"25k",
+
 "methHood":"Dim Sum. Cantonese Dim Sum",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37yAUbszVnx3Ll7yumOIHNEf8vwmwC0bd97Er4ADD6MI5XI7dOZvk775Yil-Z9NCwY-M&usqp=CAU"
 },
@@ -42,23 +43,26 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCA7jrlLScgZ58lMyb1flm2fOWZBn_auNJA&usqp=CAU",
         "recipe":[
             {
-            "recName":"Anhuis ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            },
-            {
-            "recName":"Anhui ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            },
-            {
-            "recName":"Anhui ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            }
+                "recName":"Anhui ",
+                "rating":"2.5 star",
+                "sell":"25k",
+                "methHood":"Dim Sum. Cantonese Dim Sum",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37yAUbszVnx3Ll7yumOIHNEf8vwmwC0bd97Er4ADD6MI5XI7dOZvk775Yil-Z9NCwY-M&usqp=CAU"
+                },
+                {
+                "recName":"Kung Pao Chicken ",
+                "rating":"2 star",
+                "sell":"25k",
+                "methHood":" Cantonese Dim Sum",
+                "image":"https://blog.keatschinese.com/wp-content/uploads/2020/11/iiifdhhjebz-1024x683.jpeg"
+                },
+                {
+                "recName":"Dumplings ",
+                "rating":"2.5 star",
+                "sell":"25k",
+                "methHood":"Dim Sum. Cantonese Dim Sum",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
+                }
                 ]
     },
     {
@@ -71,23 +75,26 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrlvo3WpXWZ-mVXFCClXsHqzLJqLwa7sh2w&usqp=CAU",
         "recipe":[
             {
-            "recName":"Anhui ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            },
-            {
-            "recName":"Anhui ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            },
-            {
-            "recName":"Anhui ",
-            "rating":"2.5 star",
-            "methHood":"Dim Sum. Cantonese Dim Sum",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
-            }
+                "recName":"Anhui ",
+                "rating":"2.5 star",
+                "sell":"25k",
+                "methHood":"Dim Sum. Cantonese Dim Sum",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37yAUbszVnx3Ll7yumOIHNEf8vwmwC0bd97Er4ADD6MI5XI7dOZvk775Yil-Z9NCwY-M&usqp=CAU"
+                },
+                {
+                "recName":"Kung Pao Chicken ",
+                "rating":"2 star",
+                "sell":"25k",
+                "methHood":" Cantonese Dim Sum",
+                "image":"https://blog.keatschinese.com/wp-content/uploads/2020/11/iiifdhhjebz-1024x683.jpeg"
+                },
+                {
+                "recName":"Dumplings ",
+                "rating":"2.5 star",
+                "sell":"25k",
+                "methHood":"Dim Sum. Cantonese Dim Sum",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7c4pvSHrVBxemaWyZdk_GMiyKSBkKYbBwO-1-yW_rGac169N8_cnwNbk8-8fxU0ystk&usqp=CAU"
+                }
                 ]
     },
     {
