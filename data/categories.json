@@ -4,7 +4,7 @@
         "name": "Sourov",
         "experience": "2 years",
         "recipes": "5",
-        "description": "The self-taught chef, who fled his country's civil war in 1999, nonetheless believes that promoting Lebanon's culinary riches means combining them with some of  of French cuisine.",
+        "description": "The self-taughts chef, who fled his country's civil war in 1999, nonetheless believes that promoting Lebanon's culinary riches means combining them with some of  of French cuisine.",
         "likes": "10k",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFirIi9s4U8Ls3ryN-dg3-Egexr2pF7NXjUw&usqp=CAU",
     
@@ -43,7 +43,7 @@
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCA7jrlLScgZ58lMyb1flm2fOWZBn_auNJA&usqp=CAU",
         "recipe":[
             {
-                "recName":"Anhui ",
+                "recName":"Anhu ",
                 "rating":"2.5 star",
                 "sell":"25k",
                 "methHood":"Dim Sum. Cantonese Dim Sum",
